@@ -16,19 +16,6 @@
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
 
 
-  
-- **Frontend:** React.js, material-ui, tailwind...
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Frameworks & Libraries:**
-  - [Express.js](https://expressjs.com/)
-  - [bcrypt](https://www.npmjs.com/package/bcrypt)
-  - [nodemailer](https://nodemailer.com/)
-  - [axios](https://axios-http.com/)
-  - [socket.io](https://socket.io/)
-  - and more...
-
-<br/>
  
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  

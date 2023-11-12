@@ -47,23 +47,23 @@
 
 ## Languages and Tools  
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" /></a> 
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="100" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="100" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="100" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="100" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="100" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="100" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="100" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="100" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="100" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="100" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="100" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 </div>  
 
 <br/>  

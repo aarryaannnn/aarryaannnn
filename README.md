@@ -67,7 +67,7 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">
+<div align="left">
   
 ```js
 const name = 'Aryan';

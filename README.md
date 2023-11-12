@@ -84,7 +84,7 @@ while(dev.isCoding())
     dev.listenToMusic();
   }
   dev.drinkWater();
-  dev.sleep(1000*60*60);
+  dev.sleep(1000*60*20);
 }
 ```
 

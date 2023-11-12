@@ -65,7 +65,7 @@
 
 - ⚡ Fun Fact: Sometimes I keep night shift swithed on and become a video editor. Yes I'm a good video editor, check my Insta! 😂 ...
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/guptaajee_)
 
 
 </td><td valign="top" width="50%">

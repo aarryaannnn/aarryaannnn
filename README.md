@@ -13,6 +13,18 @@
 
 ### 🚀 Full Stack Sorcerer | Architect of Digital Wonders ✨  
 !'m a sorcerer in the realm of full-stack development. I specialize in weaving extraordinary spells with code, conjuring captivating user interfaces, and brewing potent potions for the backend. Join me on this coding odyssey, and together, we'll summon digital wonders beyond imagination! 🌌✨  
+
+
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Frameworks & Libraries:**
+  - [Express.js](https://expressjs.com/)
+  - [bcrypt](https://www.npmjs.com/package/bcrypt)
+  - [nodemailer](https://nodemailer.com/)
+  - [axios](https://axios-http.com/)
+  - [socket.io](https://socket.io/)
+  - and more...
   
 
 <br/>  

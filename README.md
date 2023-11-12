@@ -52,7 +52,8 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 </td><td valign="top" width="50%">
 
-![TDM 1v1 Void vs Anxeity - RZreptorz Gaming_1_1](https://github.com/aarryaannnn/aarryaannnn/assets/51010854/2dde0cf7-d4bd-4016-b810-e6057997e87a)
+
+![Uploading HOD_profile_picture_1.gif…]()
 
 
 

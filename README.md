@@ -14,7 +14,8 @@
 ### 🚀 Full Stack Sorcerer | Architect of Digital Wonders ✨  
 !'m a sorcerer in the realm of full-stack development. I specialize in weaving extraordinary spells with code, conjuring captivating user interfaces, and brewing potent potions for the backend. Join me on this coding odyssey, and together, we'll summon digital wonders beyond imagination! 🌌✨  
 
-
+<div style="width: 50%;">
+  
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
@@ -25,6 +26,7 @@
   - [axios](https://axios-http.com/)
   - [socket.io](https://socket.io/)
   - and more...
+</div>
  
 <div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;" style="padding:"20px">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  

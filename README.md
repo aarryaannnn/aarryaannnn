@@ -72,20 +72,28 @@
 ```js
 const name = 'Aryan';
 
-Developer dev = new Developer(name);
+// Initiating the coding journey
+const developer = new Developer(name);
 
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  if(foundBugs()) {
-    dev.stopMusic();
-    dev.openStackOverFlow();
-    dev.fixBugs();
-    dev.listenToMusic();
+// The coding adventure begins!
+while (developer.isCoding()) {
+  developer.listenToMusic();
+
+  // Encounter bugs in the wild
+  while (foundBugs()) {
+    developer.stopMusic();
+    developer.openStackOverflow();
+    developer.fixBugs();
+    developer.listenToMusic();
   }
-  dev.drinkWater();
-  dev.sleep(1000*60*20);
+
+  // Stay hydrated and take a short break
+  developer.drinkWater();
+  developer.stopMusic(); // Pausing the music briefly
+  // Adding a short break
+  developer.takeShortBreak();
 }
+
 ```
 
 </div>  

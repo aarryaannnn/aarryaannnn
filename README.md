@@ -51,7 +51,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Prompt Alternation  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  

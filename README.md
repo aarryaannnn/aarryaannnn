@@ -50,18 +50,17 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 <br/>  
 
 
-## Prompt Alternation  
+## Fun Facts: 
 <table><tr><td valign="top" width="50%">
-
+- Hello World! 👋
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  
   
-
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  
-  
 
-- ⚡ Fun Fact: Sometimes I keep night shift swithed on and become a video editor. Yes I'm a good video editor, check my Insta! 😂 ...
+- Behind the Scenes: Nighttime Video Editor 🌙
+
+- Insta-Editor: Check Out My Video Skills!
+
 - 🌱 Solved 250+ problems on [Leetcode](https://leetcode.com/guptaajee_)  
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/guptaajee_)

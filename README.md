@@ -14,6 +14,8 @@
 ### 🚀 Full Stack Sorcerer ⚽🏃‍♂️| 🕷️🕸️ Crafting Digital Marvels ✨  
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
+
+<table><tr><td valign="top" width="50%">
   
 - **Frontend:** React.js, material-ui, tailwind...
 - **Backend:** Node.js, Express.js
@@ -46,7 +48,13 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 </div> 
-  
+
+</td><td valign="top" width="50%">
+
+![HOD_profile_picture_1](https://github.com/aarryaannnn/aarryaannnn/assets/51010854/9f8bbfe9-dcd0-4f13-9548-87198797e013)
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -104,43 +112,3 @@ while (developer.isCoding()) {
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-  
-- **Frontend:** React.js, material-ui, tailwind...
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Frameworks & Libraries:**
-  - [Express.js](https://expressjs.com/)
-  - [bcrypt](https://www.npmjs.com/package/bcrypt)
-  - [nodemailer](https://nodemailer.com/)
-  - [axios](https://axios-http.com/)
-  - [socket.io](https://socket.io/)
-  - and more...
-
- 
-<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;" style="padding:"20px">
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a> 
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a> 
-  <a href="https://github.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-</div> 
-
-</td><td valign="top" width="50%">
-
-![HOD_profile_picture_1](https://github.com/aarryaannnn/aarryaannnn/assets/51010854/ce85edf2-108e-49ae-a99f-7eae0a8d6f88)
-
-
-</td></tr></table>  

@@ -57,13 +57,13 @@
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  
   
 
-- 🌱 Solved 250+ problems on [Leetcode](https://leetcode.com/guptaajee_)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  
   
 
 - ⚡ Fun Fact: Sometimes I keep night shift swithed on and become a video editor. Yes I'm a good video editor, check my Insta! 😂 ...
+- 🌱 Solved 250+ problems on [Leetcode](https://leetcode.com/guptaajee_)  
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/guptaajee_)
 

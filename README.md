@@ -71,7 +71,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
   
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  
 
-- Behind the Scenes: Nighttime Video Editor 🌙 Check Out My Video Skills! on Insta
+- Behind the Scenes: Nighttime Video Editor 🌙 Check Out My Video Skills on Insta!
   
 - Back-to-back coding champion, reigning supreme for two years straight at the prestigious NERIST University 💻🏆
 

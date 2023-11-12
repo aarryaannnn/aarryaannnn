@@ -68,6 +68,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
+  
 ```js
 const name = 'Tom';
 
@@ -79,7 +80,8 @@ while(dev.isCoding())
   dev.openStackOverFlow();
   dev.drinkWater();
 }
-``
+```
+
 </div>  
 
 

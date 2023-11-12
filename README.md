@@ -67,10 +67,10 @@
 
 </td><td valign="top" width="50%">
 
-<div align="right">
+<div align="center">
   
 ```js
-const name = 'Tom';
+const name = 'Aryan';
 
 Developer dev = new Developer(name);
 

@@ -63,8 +63,6 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 </td></tr></table>  
 
-<br/>  
-
 
 ## Fun Facts: 
 <table><tr><td valign="top" width="50%">

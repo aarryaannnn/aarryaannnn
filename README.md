@@ -67,7 +67,6 @@
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/guptaajee_)
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/guptaajee_)](https://leetcode.com/guptaajee_)
 
 
 </td><td valign="top" width="50%">

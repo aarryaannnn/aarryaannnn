@@ -53,8 +53,6 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 ## Fun Facts: 
 <table><tr><td valign="top" width="50%">
   
-- Hello World! 👋
-  
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  
   
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  

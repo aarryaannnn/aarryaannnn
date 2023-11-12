@@ -73,7 +73,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 - Behind the Scenes: Nighttime Video Editor 🌙 Check Out My Video Skills! on Insta
   
-- Two years consecutive coding champian (1st) at my University (NERIST)
+- TBack-to-back coding champion, reigning supreme for two years straight at the prestigious NERIST University 💻🏆
 
 - 🌱 Solved 250+ problems on [Leetcode](https://leetcode.com/guptaajee_)  
 

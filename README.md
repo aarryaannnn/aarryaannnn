@@ -30,7 +30,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 <br/>
  
-<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;" style="padding:"20px">
+<div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  

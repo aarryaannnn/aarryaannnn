@@ -72,6 +72,8 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  
 
 - Behind the Scenes: Nighttime Video Editor 🌙 Check Out My Video Skills! on Insta
+  
+- Two years consecutive coding champian (1st) at my University (NERIST)
 
 - 🌱 Solved 250+ problems on [Leetcode](https://leetcode.com/guptaajee_)  
 

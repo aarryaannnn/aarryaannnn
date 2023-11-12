@@ -68,8 +68,8 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-  ```js
-const name = 'Aryan';
+```js
+const name = 'Tom';
 
 Developer dev = new Developer(name);
 
@@ -79,7 +79,7 @@ while(dev.isCoding())
   dev.openStackOverFlow();
   dev.drinkWater();
 }
-```
+``
 </div>  
 
 

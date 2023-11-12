@@ -15,7 +15,7 @@
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
 
-<table><tr><td valign="top" width="50%">
+
   
 - **Frontend:** React.js, material-ui, tailwind...
 - **Backend:** Node.js, Express.js
@@ -50,7 +50,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 </div> 
 
-</td><td valign="top" width="50%">
+
 
 
   <br/>

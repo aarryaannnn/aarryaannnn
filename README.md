@@ -11,7 +11,7 @@
 
 
 
-### 🚀 Full Stack Sorcerer | Architect of Digital Wonders ✨  
+### 🚀 Full Stack Sorcerer ⚽🏃‍♂️| Architect of Digital Wonders ✨  
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
   

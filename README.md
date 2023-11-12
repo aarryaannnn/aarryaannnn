@@ -53,7 +53,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 </td><td valign="top" width="50%">
 
 
-![Uploading HOD_profile_picture_1.gif…]()
+![HOD_profile_picture_1](https://github.com/aarryaannnn/aarryaannnn/assets/51010854/897926d9-db7a-4588-a41e-15494b89eaad)
 
 
 

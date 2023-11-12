@@ -68,7 +68,18 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhcnN8ZW58MHx8MHx8fDA%3D" align="right" height="270" width="" />
+  ```js
+const name = 'Aryan';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
 </div>  
 
 

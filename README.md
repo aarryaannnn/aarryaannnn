@@ -15,7 +15,7 @@
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
   
-- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Frontend:** React.js, Material UI, Tailwind...
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Frameworks & Libraries:**

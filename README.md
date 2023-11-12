@@ -77,8 +77,14 @@ Developer dev = new Developer(name);
 while(dev.isCoding())
 {
   dev.listenToMusic();
-  dev.openStackOverFlow();
+  if(foundBugs()) {
+    dev.stopMusic();
+    dev.openStackOverFlow();
+    dev.fixBugs();
+    dev.listenToMusic();
+  }
   dev.drinkWater();
+  dev.sleep(1000*60*60);
 }
 ```
 

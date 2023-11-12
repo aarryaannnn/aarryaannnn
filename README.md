@@ -63,7 +63,9 @@
 - ❓ Ask me about anything related to MERN stack and related technologies, I will never say "NO"  
   
 
-- ⚡ Fun Fact: Sometimes I keep night shift swithed on and become a video editor. Yes I'm a good video editor, check my Insta! 😂 ...  
+- ⚡ Fun Fact: Sometimes I keep night shift swithed on and become a video editor. Yes I'm a good video editor, check my Insta! 😂 ...
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 
 </td><td valign="top" width="50%">

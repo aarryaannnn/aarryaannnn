@@ -26,6 +26,9 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
   - [socket.io](https://socket.io/)
   - and more...
  
+![HOD_profile_picture_1](https://github.com/aarryaannnn/aarryaannnn/assets/51010854/332184ac-c538-4442-81a8-1d33434945ae)
+
+ 
 <div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;" style="padding:"20px">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a> 

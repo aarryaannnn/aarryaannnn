@@ -54,7 +54,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 
 
-## Fun Facts: 
+## Fun Facts & extra: 
 
   
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  

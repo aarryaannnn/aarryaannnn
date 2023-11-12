@@ -61,11 +61,11 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 
 
-</td></tr></table>  
+
 
 
 ## Fun Facts: 
-<table><tr><td valign="top" width="50%">
+
   
 - 🔭 I’m currently a fresher, graduated this year (2019-2023)  
   
@@ -81,7 +81,6 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 
 
-</td><td valign="top" width="50%">
 
 <div align="left">
   
@@ -115,7 +114,7 @@ while (developer.isCoding()) {
 </div>  
 
 
-</td></tr></table>  
+
 
 <br/>  
 

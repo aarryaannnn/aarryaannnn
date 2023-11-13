@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
+[![LeetCode user guptaajee_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fguptaajee_&logo=leetcode&logoColor=yellow)](https://leetcode.com/guptaajee_/)
 
 
 ## 🚀 Full Stack Sorcerer ⚽🏃‍♂️| 🕷️🕸️ Crafting Digital Marvels ✨  

@@ -44,7 +44,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 - A complete web base chat appilication, containing a lot of features like, OTP verification, authentication URL, encryption, friend request, beautiful MUI design. These are completed & features like messaging, voice call & video call will be adding soon. If you guys want to contribute me on this project please do let me know :)
 
-- a simple portfolio using HTML, CSS & javascript <a href="https://github.com/aarryaannnn/firstportfolio" > [link] </a>
+- a simple portfolio using HTML, CSS & javascript <a href="https://github.com/aarryaannnn/firstportfolio" > [Link] </a>
 
 
 ## Fun facts & extra: 

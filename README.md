@@ -16,6 +16,8 @@
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
 
+<div align="center">
+  
 <a href="https://www.mongodb.com/" target="_blank">
 <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -32,6 +34,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 <img src=https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+</div>
  
 <div align="center">
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  

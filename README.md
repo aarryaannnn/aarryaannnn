@@ -16,6 +16,21 @@
 
 I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Join me on this coding adventure, and let's create digital wonders together! 🌟✨ 
 
+<a href="https://www.mongodb.com/" target="_blank">
+<img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://expressjs.com/" target="_blank">
+<img src=https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://reactjs.org/" target="_blank">
+<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://nodejs.org/" target="_blank">
+<img src=https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
  
 <div align="center">

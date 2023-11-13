@@ -18,7 +18,7 @@
 
 ## 🚀 Full Stack Sorcerer ⚽🏃‍♂️| 🕷️🕸️ Crafting Digital Marvels ✨  
 
-"You are a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Let People know that they can join with you on this coding adventure, and create digital wonders together! 🌟✨" ~ChatGPT 
+"You are a code sorcerer, conjuring captivating interfaces and brewing potent backend potions. Let people know about you, so that they can join with you on this coding adventure, and create digital wonders together! 🌟✨" ~ChatGPT 
 
 <div align="center">
   

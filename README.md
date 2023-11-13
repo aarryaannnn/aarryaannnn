@@ -41,7 +41,7 @@ I'm a code sorcerer, conjuring captivating interfaces and brewing potent backend
 
 - Basic realtime web chat app. It only contains features like, register, login, avatar picking, messaging, logout, etc. <a href="https://github.com/aarryaannnn/goHello-a-basic-realtime-chat-app" > [ Link ] </a>
 
-- Complete web base chat appilication, containing a lot of features like, OTP verification, authentication URL, encryption, friend request, beautiful MUI design. These are completed & features like messaging, voice call & video call will be adding soon. If you guys want to contribute me on this project please do let me know :)
+- Complete web based chat appilication, containing a lot of features like, OTP verification, authentication URL, encryption, friend request, beautiful MUI design. These are completed & features like messaging, voice call & video call will be adding soon. If you guys want to contribute me on this project please do let me know :)
 
 - A simple portfolio using HTML, CSS & javascript <a href="https://github.com/aarryaannnn/firstportfolio" > [ Link ] </a>
 

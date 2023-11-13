@@ -8,7 +8,7 @@
 <a href="https://instagram.com/whyarcky" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={guptaajee_}&theme={github-dark}" alt="LeetCode Badges"/>
 
 ## 🚀 Full Stack Sorcerer ⚽🏃‍♂️| 🕷️🕸️ Crafting Digital Marvels ✨  
 

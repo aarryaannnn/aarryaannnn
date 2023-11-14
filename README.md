@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://github.com/aarryaannnn/firstportfolio" target="_blank">
+<a href="https://aarryaannnn.github.io/firstportfolio/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=instagram style="margin-bottom: 5px;" />
 </a>  
 

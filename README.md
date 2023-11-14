@@ -38,6 +38,10 @@
 <img src=https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+<a href="https://aarryaannnn.github.io/firstportfolio/" target="_blank"> 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</a>
+
 </div>
  
 <div align="center">
